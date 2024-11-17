@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="61564475-ac8a-4582-a56a-50e7e65e2857" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/Divar_Get_Data.iml" afterDir="false" />
